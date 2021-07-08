@@ -1,10 +1,11 @@
-# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"/> , I am Gaurav Sewatkar 🧑🏻‍🎓
+# Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"/> , I am Gaurav Sewatkar 🧑🏻‍🎓 
 
 <p>
  <a href="https://www.linkedin.com/in/gaurav-sewatkar-47a8b316a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
  <a href="https://twitter.com/Garry_1325"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a href="https://www.instagram.com/gaurav_sewatkar/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p> 
+ 
 
 
 <!--
@@ -54,8 +55,9 @@ Here are some ideas to get you started:
 
  🔰   **Cloud Technologies knows :** <p>
  <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
- <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
- </p>
+ <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravsewatkar&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
 
 ## Quick Overview 
 
@@ -64,7 +66,11 @@ Here are some ideas to get you started:
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsewatkar&theme=radical)
  
  
-![](https://visitor-badge.laobi.icu/badge?page_id=gauravsewatkar.gauravsewatkar)
+ 
+<p align="center"> 
+ <b> Profile view count:</b><br>
+  <img src="https://profile-counter.glitch.me/gauravsewatkar/count.svg" />
+</p>
   
  
  
